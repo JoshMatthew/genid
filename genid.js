@@ -51,6 +51,9 @@ module.exports = genUid = format => {
 };
 
 const format_id = format => {
+  if (!format) {
+    format = "nnnnnllnn_lll_nlnl_nll";
+  }
   let char = format.split("");
   let uid = "";
 
