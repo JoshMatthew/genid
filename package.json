@@ -1,0 +1,11 @@
+{
+  "name": "genid",
+  "version": "1.0.0",
+  "description": "An ID generator",
+  "main": "genid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Matthew Talplacido",
+  "license": "MIT"
+}
