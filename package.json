@@ -1,5 +1,5 @@
 {
-  "name": "genid",
+  "name": "@spiderwebs/genid",
   "version": "1.0.0",
   "description": "An ID generator",
   "main": "genid.js",
