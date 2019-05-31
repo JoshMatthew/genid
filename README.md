@@ -31,6 +31,6 @@ and it should give a random number similar to this `23749`.
 
 ### Contact
 
-[facebook](https://web.facebook.com/josh.alphadroid)
-[email](joshmatthewtalplacido@gmail.com)
-[github](https://joshmatthew.github.io)
+my [facebook] account (https://web.facebook.com/josh.alphadroid)<br>
+contact me on [email](joshmatthewtalplacido@gmail.com)<br>
+check me on [github](https://joshmatthew.github.io)
