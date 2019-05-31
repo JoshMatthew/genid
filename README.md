@@ -30,8 +30,6 @@ console.log(genid("nnnnn"));
 and it should give a random number similar to this `23749`.
 
 <br>
-<br>
-<br>
 ### Contact
 [facebook](https://web.facebook.com/josh.alphadroid)
 [email](joshmatthewtalplacido@gmail.com)
