@@ -16,9 +16,9 @@ To use it is very simple, just import the package
 const genid = require("@spider_webs/genid");
 ```
 
-Then by default genid will create a random id by the format (nnnnnllnn*lll_nlnl_nll) <br>
+Then by default genid will create a random id by the format "nnnnnllnn_lll_nlnl_nll" <br>
 'n' stands for number and 'l' stands for letter. The only separator available at the <br>
-moment is by using underscore '*'.
+moment is by using underscore "\_".
 
 To create your custom id format, just simply add the format as the parameter. For instance, <br>
 to create a random id with five numbers I can pass 'nnnnn' to generate five random numbers.
