@@ -1,6 +1,6 @@
 {
   "name": "@spider_webs/genid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An ID generator",
   "main": "genid.js",
   "scripts": {
